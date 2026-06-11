@@ -25,4 +25,4 @@ Future Enhancements:
 - ✅ Rule-based AI insights (top performer, concentration, etc.)
 
 **Built with:** Python, Streamlit, Pandas, Plotly  
-**Live Demo:** [your-app-link.streamlit.app]
+**Live Demo:** (https://ai-business-analyst-project-nasreen.streamlit.app/)
